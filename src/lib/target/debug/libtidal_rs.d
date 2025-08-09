@@ -1,0 +1,1 @@
+/Users/connormac/projects/tidal-rs/target/debug/libtidal_rs.rlib: /Users/connormac/projects/tidal-rs/src/lib.rs /Users/connormac/projects/tidal-rs/src/structs.rs /Users/connormac/projects/tidal-rs/src/user.rs /Users/connormac/projects/tidal-rs/src/util.rs
